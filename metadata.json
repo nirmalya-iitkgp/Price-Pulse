@@ -1,0 +1,6 @@
+{
+  "name": "PricePulse Studio",
+  "description": "Dynamic Pricing Elasticity & Algorithmic Conjoint Engine for Van Westendorp PSM, Gabor-Granger demand curves, Economic Value to the Customer (EVC), and Good-Better-Best seat packaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
